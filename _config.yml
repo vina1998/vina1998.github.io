@@ -6,6 +6,6 @@ email: "thivinathanabalan@mymail.unisa.edu.au"
 nav_links:
   - name: "About"
     url: "/about/"
-   - name: "Data"
+  - name: "Data"
     url: "/data/"
 
