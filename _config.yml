@@ -12,3 +12,5 @@ nav_links:
     url: "/cv/"
   - name: "Data"
     url: "/data/"
+   - name: "GitHub"
+    url: "https://github.com/vina1998"
