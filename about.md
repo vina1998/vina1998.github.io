@@ -15,3 +15,12 @@ This blog shares her PhD learnings, particularly in the area of **neuroimaging a
 Vina's PhD journey has nurtured a deep passion for the science of human communication. She shares her synthesis of cutting-edge neuroscientific research on neurodivergent individuals, particularly those diagnosed with ADHD and autism. Her work reflects a special interest in the diverse communication styles of neurodivergent individuals and how neurolinguistic research can help bridge the gaps between different ways of thinking and processing information.
 
 > _The opinions posted here are her own and do not reflect those of her affiliated institutions._
+
+## Connect with Me  
+You can find me on [LinkedIn](https://www.linkedin.com/in/thivina-thanabalan).
+
+Or use the button below:  
+
+<a href="https://www.linkedin.com/in/thivina-thanabalan" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#0077B5; color:white; text-decoration:none; border-radius:5px;">
+  LinkedIn Profile
+</a>
