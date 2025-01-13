@@ -17,9 +17,6 @@ Vina's PhD journey has nurtured a deep passion for the science of human communic
 > _The opinions posted here are her own and do not reflect those of her affiliated institutions._
 
 ## Connect with Me  
-You can find me on [LinkedIn](https://www.linkedin.com/in/thivina-thanabalan).
-
-Or use the button below:  
 
 <a href="https://www.linkedin.com/in/thivina-thanabalan" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#0077B5; color:white; text-decoration:none; border-radius:5px;">
   LinkedIn Profile
