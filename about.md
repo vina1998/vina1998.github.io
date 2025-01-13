@@ -8,8 +8,6 @@ description: "Learn more about Vina"
 # About Me
 Vina is a PhD candidate at the **Cognitive Neuroscience Laboratory** at the **University of South Australia**. Her research focuses on the brain mechanisms underlying **naturalistic language processing** using **fMRI** data.
 
-![Brain Scan](assets/images/brain-scan.jpg)
-
 ## Blog Purpose
 This blog shares her PhD learnings, particularly in the area of **neuroimaging analysis**, and demonstrates how **R** can be used to facilitate the use of **AFNI**.
 
