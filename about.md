@@ -25,5 +25,5 @@ Vina's PhD journey has nurtured a deep passion for the science of human communic
 </a>
 
 <a href="https://github.com/vina1998" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#333; color:white; text-decoration:none; border-radius:5px;">
-  <i class="fab fa-github" style="margin-right:8px;"></i> GitHub Profile
+  GitHub Profile
 </a>
