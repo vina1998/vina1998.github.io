@@ -6,3 +6,5 @@ nav_links:
     url: "/"
   - name: "About"
     url: "/about/"
+exclude:
+  - README.md
