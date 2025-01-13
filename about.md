@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About me
 permalink: /about/
 description: "Learn more about Vina"
