@@ -2,7 +2,7 @@ theme: minima
 title: "Vina's homepage"
 description: "Bookmark this to keep an eye on my project updates!"
 author: "Vina"
-email: "thivina1998@gmail.com"
+email: "thivinathanabalan@mymail.unisa.edu.au"
 nav_links:
   - name: "About"
     url: "/about/"
