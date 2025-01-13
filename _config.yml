@@ -2,7 +2,7 @@ theme: minima
 title: "VinaNeuro"
 description: "Bookmark this to keep an eye on my project updates!"
 author: "Vina"
-email: "thivinathanabalan@mymail.unisa.edu.au"
+email: "https://github.com/vina1998"
 nav_links:
   - name: "Home"
     url: "/"
