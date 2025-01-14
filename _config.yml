@@ -11,4 +11,6 @@ nav_links:
   - name: "CV"
     url: "/cv/"
   - name: "Data"
-    url: "/data/"
+    dropdown:
+    - name: "TidyTuesday"
+      link: /2023-talks/
