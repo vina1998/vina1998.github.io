@@ -1,6 +1,6 @@
-title: VinaNeuro
+title: VinaNNeuro
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 # Add custom styles
 extra_css:
-  - /assets/css/custom.css
+  - assets/css/custom.css
