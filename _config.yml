@@ -13,4 +13,4 @@ navigation:
   - title: "Data"
     children:
       - title: "TidyTuesday"
-        url: /tt/
+        url: /tidytuesday/
