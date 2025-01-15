@@ -1,15 +1,14 @@
-theme:  jekyll-theme-minimal
 title: "VinaNeuro"
 description: "Bookmark this to keep an eye on my project updates!"
-author: "Vina"
-email: "https://github.com/vina1998"
-nav_links:
+theme:  jekyll-theme-minimal
+
+navigation:
   - name: "Home"
-    url: "/"
+    link: "/"
   - name: "About"
-    url: "/about/"
+    link: "/about/"
   - name: "CV"
-    url: "/cv/"
+    link: "/cv/"
   - name: "Data"
     dropdown:
     - name: "TidyTuesday"
