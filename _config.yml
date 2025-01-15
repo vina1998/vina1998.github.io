@@ -1,8 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
-title: "VinaNeuro"
+title: "VinaNNeuro"
 description: "Bookmark this to keep an eye on my project updates!"
 
-# Navigation with dropdowns
 navigation:
   - title: "Home"
     url: /
@@ -11,6 +10,7 @@ navigation:
   - title: "CV"
     url: /cv/
   - title: "Data"
+    has_children: true
     children:
       - title: "TidyTuesday"
         url: /tidytuesday/
