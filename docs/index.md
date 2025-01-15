@@ -1,11 +1,9 @@
 ---
 layout: default
-title: About me
-permalink: /about/
-description: "Learn more about Vina"
+title: About
+nav_order: 1
+has_children: false
 ---
-<!-- Remove the first-level heading -->
-<!-- # About Me -->
 
 ## Educational Background
 Vina is a PhD candidate at the **Cognitive Neuroscience Laboratory** at the **University of South Australia**. Her research focuses on the brain mechanisms underlying **naturalistic language processing** using **fMRI** data.
