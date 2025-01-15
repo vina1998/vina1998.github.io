@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "TidyTuesday"
-parent: "Data"
+permalink: /tidytuesday/
+description: "Learn more about Vina"
 ---
 # TidyTuesday 
 This is a placeholder page for TidyTuesday.
