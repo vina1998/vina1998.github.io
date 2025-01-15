@@ -2,6 +2,7 @@
 layout: default
 title: "TidyTuesday"
 permalink: /tidytuesday/
+parent: "Data"
 description: "Learn more about Vina"
 ---
 # TidyTuesday 
