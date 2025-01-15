@@ -12,7 +12,5 @@ navigation:
     url: /cv/
   - title: "Data"
     children:
-      - title: "TidyTuesday 2023"
-        url: /2023-talks/
-      - title: "TidyTuesday 2024"
-        url: /2024-talks/
+      - title: "TidyTuesday"
+        url: /TT/
